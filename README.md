@@ -2,7 +2,7 @@
 
 ## 📖 課程概述 / Course Overview
 
-此倉庫包含了1121學期線性代數課程的所有作業和報告程式碼。  
+此倉庫包含了1121 線性代數課程的所有作業和報告程式碼。  
 This repository contains all assignments and project code for the 1121 Linear Algebra course.
 
 ## 🛠️ 使用的程式語言 / Programming Languages Used
